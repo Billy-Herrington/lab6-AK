@@ -1,0 +1,1 @@
+cmd_/home/obernadin/lab-6-AK/Lab6_AK-2-main/modules.order := {   echo /home/obernadin/lab-6-AK/Lab6_AK-2-main/hello.ko; :; } | awk '!x[$$0]++' - > /home/obernadin/lab-6-AK/Lab6_AK-2-main/modules.order
