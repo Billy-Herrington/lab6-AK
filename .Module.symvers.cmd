@@ -1,1 +1,0 @@
-cmd_/home/obernadin/lab-6-AK/Lab6_AK-2-main/Module.symvers := sed 's/ko$$/o/' /home/obernadin/lab-6-AK/Lab6_AK-2-main/modules.order | scripts/mod/modpost -m -a   -o /home/obernadin/lab-6-AK/Lab6_AK-2-main/Module.symvers -e -i Module.symvers   -T -
